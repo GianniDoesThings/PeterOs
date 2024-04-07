@@ -1,0 +1,11 @@
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.csproj.AssemblyReference.cache
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.Form1.resources
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.Properties.Resources.resources
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.csproj.GenerateResource.cache
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.csproj.CoreCompileInputs.cache
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\bin\Debug\PeterOS.exe.config
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\bin\Debug\PeterOS.exe
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\bin\Debug\PeterOS.pdb
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.exe
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.pdb
+C:\Users\Gianni\source\repos\PeterOS\PeterOS\obj\Debug\PeterOS.Form2.resources
